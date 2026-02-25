@@ -1,5 +1,3 @@
-# [cite_start]Hi there, I'm Cao Nguyễn Thành Hoàng (DrMartinel) 👋 [cite: 1]
-
 [cite_start]I am a final-year Computer Science student at Hanoi University of Science and Technology (HUST)[cite: 5, 12, 16]. [cite_start]I have a strong foundation in English (IELTS 7.5) [cite: 5, 30] [cite_start]and practical experience as a Backend Developer[cite: 5, 20]. [cite_start]I thrive in high-intensity tech environments and am passionate about large-scale systems, optimization, and applying DevOps mindsets[cite: 6, 7].
 
 ## 🚀 About Me
