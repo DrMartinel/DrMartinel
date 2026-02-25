@@ -1,6 +1,6 @@
 # Hi there, I'm Cao Nguyễn Thành Hoàng (DrMartinel)
 
-I am a final-year Computer Science student at Hanoi University of Science and Technology (HUST). I have a strong foundation in English (IELTS 7.5)vand practical experience as a Backend Developer. I thrive in high-intensity tech environments and am passionate about large-scale systems, optimization, and applying DevOps mindsets.
+I am a final-year Computer Science student at Hanoi University of Science and Technology (HUST). I have a strong foundation in English (IELTS 7.5) and practical experience as a Backend Developer. I thrive in high-intensity tech environments and am passionate about large-scale systems, optimization, and applying DevOps mindsets.
 
 ## 🚀 About Me
 * 💻 Currently working as a **Backend Developer** at SmartMove.
