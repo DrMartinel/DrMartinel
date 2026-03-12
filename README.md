@@ -3,11 +3,11 @@
 I am a final-year Computer Science student at Hanoi University of Science and Technology (HUST). I have a strong foundation in English (IELTS 7.5) and practical experience as a Backend Developer. I thrive in high-intensity tech environments and am passionate about large-scale systems, optimization, and applying DevOps mindsets.
 
 ## 🚀 About Me
-* 💻 Currently working as a **Backend Developer** at SmartMove.
-* 🎓 Studying **Computer Science (ITI)** at HUST.
-* ⚙️ **Interests:** Clean Architecture, building AI agents with Python (`crewai`), and developing Telegram bots.
-* 🧠 **Current Focus:** Deepening my knowledge in C++ data structures, solving LeetCode problems, and containerization.
-* 🌍 **Languages:** Vietnamese, English (IELTS 7.5 - Reading: 8.5, Listening: 8.5, Speaking: 7.0, Writing: 6.5).
+* Currently working as a **Backend Developer** at SmartMove.
+* Studying **Computer Science (ITI)** at HUST.
+* **Interests:** Clean Architecture, building AI agents with Python (`crewai`), and developing Telegram bots.
+* **Current Focus:** Deepening my knowledge in C++ data structures, solving LeetCode problems, and containerization.
+* **Languages:** Vietnamese, English (IELTS 7.5 - Reading: 8.5, Listening: 8.5, Speaking: 7.0, Writing: 6.5).
 
 ## 🛠️ Tech Stack & Tools
 * **Backend:** Node.js (ExpressJS), PHP (Laravel), C++, Java, Python.
