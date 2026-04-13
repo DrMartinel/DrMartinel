@@ -11,7 +11,7 @@ I am a final-year Computer Science student at Hanoi University of Science and Te
 * **Languages:** Vietnamese, English (IELTS 7.5 - Reading: 8.5, Listening: 8.5, Speaking: 7.0, Writing: 6.5).
 
 ## 🛠️ Tech Stack & Tools
-* **Backend:** Node.js (ExpressJS), PHP (Laravel), C++, Java, Python.
+* **Backend:** Node.js (ExpressJS), PHP (Laravel), C++, Java (Spring Boot), Python(Django).
 * **Frontend:** ReactJS, NextJS, Javascript, HTML5, CSS3.
 * **Databases:** MySQL, Supabase, MongoDB, SQLite.
 * **DevOps & Architecture:** Docker, Nginx, Vercel.
