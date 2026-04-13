@@ -4,6 +4,7 @@ I am a final-year Computer Science student at Hanoi University of Science and Te
 
 ## 🚀 About Me
 * Currently working as a **Backend Developer** at SmartMove.
+* Currently working as a **Software Engineer** at Viettel Network.
 * Studying **Computer Science (ITI)** at HUST.
 * **Interests:** Clean Architecture, building AI agents with Python (`crewai`), and developing Telegram bots.
 * **Current Focus:** Deepening my knowledge in C++ data structures, solving LeetCode problems, and containerization.
