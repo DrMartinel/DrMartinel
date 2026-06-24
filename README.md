@@ -13,7 +13,7 @@ I am a final-year Computer Science student at Hanoi University of Science and Te
 ## 🛠️ Tech Stack & Tools
 * **Backend:** Node.js (ExpressJS), PHP (Laravel), C++, Java (Spring Boot), Python(Django).
 * **Frontend:** ReactJS, NextJS, Javascript, HTML5, CSS3.
-* **Databases:** MySQL, Supabase, MongoDB, SQLite.
+* **Databases:** MySQL, Supabase, MongoDB, SQLite, Postgres.
 * **DevOps & Architecture:** Docker, Nginx, Vercel.
 
 ## 💼 Highlighted Experience
